@@ -1,0 +1,13 @@
+uat:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/restaurant
+    username: postgres
+    password: pavan
+---
+#logging: 
+#  level:   
+#    com.pro.common: DEBUG
+#    org.springframework.web: ERROR
+#    org.springframework.security: ERROR
+#    org.hibernate: ERROR    
+#    name: Restaurent.log
